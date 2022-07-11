@@ -13,3 +13,9 @@ indent_size = 4
 [*.{xml,tmpl}]
 indent_style = space
 indent_size = 2
+
+git clone https://github.com/ Manisso/fsociety.git
+
+cd fsociety
+
+chmod +x install.sh
